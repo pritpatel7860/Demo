@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8BAFCFE6-A93D-4AFD-9C67-00F4F707C5C6"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73E7FA34-F215-4824-8414-F86106362214"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo_Prit/app-module/controller/HomeController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "getDataList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "73E7FA34-F215-4824-8414-F86106362214 - 198bea231fdd06af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in Demo_Prit.HomeController.getDataList() -&gt; ()"
+                  moduleName = "Demo_Prit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pritkothadiya/Desktop/Demo_Prit/Demo_Prit/app-module/controller/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "555">
+               </Location>
+               <Location
+                  uuid = "73E7FA34-F215-4824-8414-F86106362214 - 198bea231fdd06af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in Demo_Prit.HomeController.getDataList() -&gt; ()"
+                  moduleName = "Demo_Prit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pritkothadiya/Desktop/Demo_Prit/Demo_Prit/app-module/controller/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A7123D2-18F9-451C-BE98-43E51B46C46C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo_Prit/app-module/controller/HomeController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "getDataList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A7123D2-18F9-451C-BE98-43E51B46C46C - 74526688f6ec775f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Prit.HomeController.getDataList() -&gt; ()"
+                  moduleName = "Demo_Prit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pritkothadiya/Desktop/Demo_Prit/Demo_Prit/app-module/controller/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "3A7123D2-18F9-451C-BE98-43E51B46C46C - 198bea231fdd06af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in Demo_Prit.HomeController.getDataList() -&gt; ()"
+                  moduleName = "Demo_Prit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pritkothadiya/Desktop/Demo_Prit/Demo_Prit/app-module/controller/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "194">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
